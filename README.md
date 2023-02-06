@@ -1,3 +1,2 @@
 # projeto-apeperia
-Arquivos do projeto para a Apeperia
-# apeperia-alura
+Projetp Apeparia, desenvolvido durante o Programa Desenvolve - trilha fullstack, uma parceria Alura e Grupo Boticário.
